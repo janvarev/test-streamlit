@@ -1,0 +1,17 @@
+# Translation
+deep-translator
+openai
+
+# Web server
+uvicorn
+uvicorn[standard]
+fastapi
+starlette
+
+termcolor
+
+# some plugins
+websocket-client
+
+ujson
+Brotli
